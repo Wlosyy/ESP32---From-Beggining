@@ -16,13 +16,21 @@ ESP32 is a low-cost, low-power system-on-chip microcontroller with integrated Wi
 📂 Repository Structure
 
 📁 ESP32-Learning
-│-- 📂 docs        # Notes and guides
-│-- 📂 examples    # Code snippets and projects
-│-- 📂 scripts     # Useful automation scripts
+
+  │-- 📂 docs        # Notes and guides
+
+  │-- 📂 examples    # Code snippets and projects
+
+  │-- 📂 scripts     # Useful automation scripts
+
 │-- README.md      # This file
+
+##
 
 🚀 Progress & Updates
 I will regularly update this repository with my learning progress, projects, and useful resources. Stay tuned!
+
+##
 
 🙌 Contributions & Suggestions
 If you have tips, suggestions, or recommended resources, feel free to open an issue or start a discussion. Let's learn together!
